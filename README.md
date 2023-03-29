@@ -1,6 +1,4 @@
 # typescipt
-npm install typescript --save-dev
-or 
 npm install -g typescript
 Which should give you an output similar to:
 
