@@ -39,3 +39,18 @@ npx ts-node script.ts
 TypeScript supports static typing. This means that static typing allows type accuracy to be checked at build time.
 At the time of development, TypeScript identifies the compilation bugs. ...
 TypeScript is just JS with some extra functionality, namely ES6 features.
+
+# Basic topics 
+
+1. Why Typescript
+2. Typescript Setup
+3. Simple types like : There are three main primitives in JavaScript and TypeScript.
+
+boolean - true or false values
+number - whole numbers and floating point values
+string - text values like "TypeScript Rocks"
+4. array
+5. tuple
+6. object types
+7. OOPS class
+8. 
