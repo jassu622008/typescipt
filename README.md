@@ -35,7 +35,7 @@ Here is an example of more things you could add to the tsconfig.json file:
 To run your TS file use this command 
 npx ts-node script.ts
 
-#Advantages of learning typescript
+# Advantages of learning typescript
 TypeScript supports static typing. This means that static typing allows type accuracy to be checked at build time.
 At the time of development, TypeScript identifies the compilation bugs. ...
 TypeScript is just JS with some extra functionality, namely ES6 features.
