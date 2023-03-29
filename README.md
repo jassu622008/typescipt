@@ -1,5 +1,7 @@
 # typescipt
 npm install typescript --save-dev
+or 
+npm install -g typescript
 Which should give you an output similar to:
 
 added 1 package, and audited 2 packages in 2s
@@ -32,3 +34,7 @@ Here is an example of more things you could add to the tsconfig.json file:
     "outDir": "./build"
   }
 }
+
+To run your TS file use this command 
+npx ts-node script.ts
+
