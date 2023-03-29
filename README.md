@@ -53,4 +53,4 @@ string - text values like "TypeScript Rocks"
 5. tuple
 6. object types
 7. OOPS class
-8. 
+8. npm i @types/prompt-sync for prompt
